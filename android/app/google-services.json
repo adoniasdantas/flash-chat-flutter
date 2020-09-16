@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944137100609",
+    "firebase_url": "https://flash-chat-3df29.firebaseio.com",
+    "project_id": "flash-chat-3df29",
+    "storage_bucket": "flash-chat-3df29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944137100609:android:ad6e1e2845d6290aa815c0",
+        "android_client_info": {
+          "package_name": "co.adoniasdantas.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944137100609-aelt72v3jjsdd445k9s53lfjr4vm00ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvVayfxBCLrLIuB4W119dKOhlMCH9vgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944137100609-aelt72v3jjsdd445k9s53lfjr4vm00ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
